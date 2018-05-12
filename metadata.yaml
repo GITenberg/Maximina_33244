@@ -25,6 +25,8 @@ creator:
     - http://en.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
     - http://es.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33244#Maximina
 gutenberg_issued: '2010-07-24'
 gutenberg_type: Text
 identifiers:
